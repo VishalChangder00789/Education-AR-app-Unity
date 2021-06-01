@@ -22,6 +22,7 @@ https://drive.google.com/drive/folders/1m0EromBH65cr1afzleHZkypzkDGLlmEa?usp=sha
 * Either build the applicatio from the unity build manager
 * You can also install the application given with this repository.
 * Scan the given pictures or target images from your phone and Enjoy.
+* **There are more than one objects per image targets.
 
 # System Requirements
 * Windows 10 pro
